@@ -28,6 +28,7 @@ Jobease is built using the following technologies:
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens) for secure user authentication
+- **User Interaction** Using SMTP 
 
 ## Getting Started
 
